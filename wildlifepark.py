@@ -5,7 +5,7 @@ import datetime
 from datetime import timedelta, date
 
 date_object = datetime.date.today()
-EndDate = date.today() + timedelta(days=6)
+EndDate = date.today() + timedelta(days=7)
 
 # Number of people
 
@@ -39,12 +39,6 @@ type2 = [12, 18]
 type3 = [16, 24]
 type4 = [60, 90]
 type5 = [15, 22.5]
-
-childnums = [0, 1, 0, 3, 3]
-
-adultnums = [1, 0, 0, 2, 2]
-
-seniornums = [0, 0, 1, 2, 2]
 
 ty = ["", "", "", "", ""]
 
